@@ -1,3 +1,4 @@
-# Hi there
-this is chomps dumb lua bot it sucks dont even try getting it lol
+# lua bot
+so uhhh i tried making a discord bot in lua
+why
 
